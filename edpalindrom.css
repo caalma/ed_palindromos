@@ -37,7 +37,10 @@
     background: #fff;
     text-align: center;
     font-size: 1.1em;
-    width: 100%;
+    width: 98%;
+    min-width: 98%;
+    max-width: 98%;
+    box-sizing: border-box;
 }
 
 .edpalindrom .tex:focus {
